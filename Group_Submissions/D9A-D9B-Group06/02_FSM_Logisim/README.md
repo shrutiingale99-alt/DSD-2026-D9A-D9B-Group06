@@ -67,4 +67,3 @@ Outputs:        CALM_LED = S2'·S1'·S0    BREEZY_LED = S2'·S1·S0'
 - `verification_scripts/`: the circuit generator and the test harness used for the automated run
 
 > Tip: take one or two of your own screenshots in Logisim while presenting, to show the circuit running live.
-
